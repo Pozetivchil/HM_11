@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(11,45): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(15,45): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(19,47): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(23,41): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(27,45): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(31,45): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(35,45): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(39,47): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(43,45): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(47,47): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Programs\VS\VSProjects\Homework\HM_12\Source.c(51,47): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  HM_12.vcxproj -> C:\Programs\VS\VSProjects\Homework\HM_11\x64\Debug\HM_12.exe
