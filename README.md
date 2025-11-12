@@ -1,4 +1,4 @@
-# 11 Лабораторная
+# 11 Лабораторная 
 ```C 
 #include <stdio.h>
 #include <stdlib.h>
