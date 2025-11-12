@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB73A84C-52A2-4C8D-ADB4-6F2CF74B1AF0}|..\\HM_12\\HM_12.vcxproj|C:\\Programs\\VS\\VSProjects\\Homework\\HM_12\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Programs\\VS\\VSProjects\\Homework\\HM_12\\Source.c",
+              "RelativeDocumentMoniker": "..\\HM_12\\Source.c",
+              "ToolTip": "C:\\Programs\\VS\\VSProjects\\Homework\\HM_12\\Source.c",
+              "RelativeToolTip": "..\\HM_12\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-12T16:13:15.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
