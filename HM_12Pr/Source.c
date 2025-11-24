@@ -1,6 +1,11 @@
 #include <stdio.h>
+#include <locale.h>
 
-int main() {
+int main() 
+{
+    system("chcp 65001");
+    setlocale(LC_ALL, "RUS");
+
     // Функция для вычисления размера типа через адресную арифметику
 #define CALC_SIZE(type) ({ \
         type arr[2]; \

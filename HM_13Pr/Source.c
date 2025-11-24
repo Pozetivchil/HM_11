@@ -10,7 +10,9 @@
 
 int main()
 {
-    setlocale(LC_ALL, "Russian UTF-8");
+    system("chcp 65001");
+    setlocale(LC_ALL, "RUS");
+
 
     char sentence[MAX_LEN];
     int i = 0; 

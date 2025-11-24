@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\HM_12Pr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB73A84C-52A2-4C8D-ADB4-6F2CF74B1AF0}|HM_12.vcxproj|C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB73A84C-52A2-4C8D-ADB4-6F2CF74B1AF0}|HM_12.vcxproj|C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\HM_12Pr\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DB73A84C-52A2-4C8D-ADB4-6F2CF74B1AF0}|HM_12.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB73A84C-52A2-4C8D-ADB4-6F2CF74B1AF0}|HM_12.vcxproj|C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,30 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 138,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\README.md",
               "RelativeDocumentMoniker": "..\\README.md",
               "ToolTip": "C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\README.md",
               "RelativeToolTip": "..\\README.md",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAwHoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-11-12T17:50:20.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\HM_12Pr\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Programs\\VS\\VSProjects\\Homework\\HM_11\\HM_12Pr\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-12T17:50:11.5Z",
               "EditorCaption": ""

@@ -5,7 +5,7 @@
 
 int main() 
 {
-    system("chcp 1251");
+    system("chcp 65001");
     setlocale(LC_ALL, "RUS");
 
     int n, last_zero_index, sum = 0;
