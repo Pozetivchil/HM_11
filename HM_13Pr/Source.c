@@ -5,11 +5,12 @@
 #include <stdio.h> 
 #include <string.h> 
 #include <stdlib.h>
+#include <locale.h>
 #define MAX_LEN 256
 
 int main()
 {
-    system("chcp 1251");
+    setlocale(LC_ALL, "Russian UTF-8");
 
     char sentence[MAX_LEN];
     int i = 0; 
